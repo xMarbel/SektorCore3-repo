@@ -1,0 +1,10 @@
+info:
+  server: "duckmc.pl"
+  discord: "https://discord.gg/PfuQfkbNg"
+  # {server} i {discord} sa podmieniane. Linia z {discord} jest klikalna.
+  lines:
+    - ""
+    - "&8▎ &7Serwer &6{server} &7zasilany przez &eSektorCore"
+    - "&8▎ &7Pluginy &eautorskie &7- zapraszamy na nasz Discord!"
+    - "&8▎ &7Kontakt &8(&bDiscord&8) &8- &f{discord}"
+    - ""

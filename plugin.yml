@@ -1,0 +1,9 @@
+name: SektorCore3
+version: 3.0.0
+main: pl.sektor.core3.Core3
+api-version: '1.21'
+softdepend: [SektorCore, SektorCore2]
+description: SektorCore partia 3 - info pod /pl
+permissions:
+  sektor.admin:
+    default: op
